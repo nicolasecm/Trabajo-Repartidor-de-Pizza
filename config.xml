@@ -1,0 +1,6 @@
+<root>
+	<ValorPorEntrega>1000</ValorPorEntrega>	
+	<ValorPorFinEntregas>3000</ValorPorFinEntregas>
+	<ValorMinimoPropina>50</ValorMinimoPropina>	
+	<ValorMaximoPropina>200</ValorMaximoPropina>
+</root>

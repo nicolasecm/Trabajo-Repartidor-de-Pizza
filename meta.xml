@@ -1,0 +1,9 @@
+<meta>
+<info author="Mcnciolas208" name="Trabajo Repartidor de pizza" version="1.0" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="TextosMark.lua" type="client"/>
+	<script src="CargarDatosPizza.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+	<config src="config.xml" type="client"/>
+	<include resource="trabajos" /> 
+</meta>
